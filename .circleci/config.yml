@@ -10,7 +10,7 @@ jobs:
     - run: date
     - run: date
     - run: date
-    - run: ls
+    - run: ls && date
 
 workflows:
   version: 2
